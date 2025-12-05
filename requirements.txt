@@ -1,0 +1,17 @@
+# Core dependencies (Python 3.12 compatible)
+opencv-python>=4.8.0
+numpy>=1.26.0
+pandas>=2.1.0
+Pillow>=10.0.0
+
+# OCR recognition (使用稳定的 2.x 版本)
+paddlepaddle==2.6.1
+paddleocr==2.7.3
+
+# Data processing and visualization
+matplotlib>=3.8.0
+openpyxl>=3.1.0
+
+# Utility libraries
+tqdm>=4.66.0
+jsonschema>=4.19.0

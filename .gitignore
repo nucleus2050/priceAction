@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 输出文件
+output/
+results/
+*.json
+*.csv
+*.xlsx
+
+# 调试图片
+debug_*.png
+
+# 测试数据
+screenshots/
+test_*.png
+
+# PaddleOCR缓存
+inference/
+.paddleocr/
+
+# 日志
+*.log
+
